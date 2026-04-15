@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abdulrhman%20Osama&fontSize=40&fontColor=fff" />
+</p>
 
-<!--
-**abdo74174/abdo74174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full Stack Developer | .NET | Angular | Flutter | Oracle APEX
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdulrhman-Osama&label=Profile%20Views&color=blue" />
+  <img src="https://img.shields.io/github/followers/Abdulrhman-Osama?label=Followers&style=social" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full Stack & Mobile Developer  
+- 💼 Marketing Specialist at HTS Group (Giza)  
+- 🚀 Working with .NET, Angular, Flutter, Oracle APEX  
+- 🌱 Always learning new technologies  
+- ⚡ Passionate about building real-world applications  
+
+---
+
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrhman-Osama&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrhman-Osama&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: your-linkedin-link  
+- 🌐 GitHub: https://github.com/Abdulrhman-Osama  
+
+---
+
+<p align="center">
+  ⭐ "Code, Build, Improve, Repeat" ⭐
+</p>
