@@ -40,20 +40,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrhman-Osama&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo74174&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrhman-Osama&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo74174&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin-link  
-- 🌐 GitHub: https://github.com/Abdulrhman-Osama  
+- 📧 Email: Abdulrhmanosama744@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/abdulrahman-osama-132881225  
+- 🌐 GitHub: https://github.com/abdo74174  
 
 ---
 
